@@ -1,5 +1,5 @@
 SRM stands for structure relationship mappin
-You can think about it as minimalistic approach to something in bewtween an ORM and basic DTO-mapping, with graph navigation, in go.
+You can think about it as a minimalistic approach to something in bewtween an ORM and basic DTO-mapping with graph navigation, in go.
 
 As it is truly minimalistic, there are certain rules of engagement and restrictions:
 
