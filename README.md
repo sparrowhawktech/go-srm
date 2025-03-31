@@ -1,5 +1,5 @@
-SRM stands for structure relationship mapping.
-You can think about it as minimalistic approach to what you may know as an ORM, in go. Only we don't generate SQL sentences, you write them.
+SRM stands for structure relationship mappin
+You can think about it as minimalistic approach to what you may know as an ORM, in go. Only we don't generate every bit of SQL, you write some of it.
 
 As it is truly minimalistic, there are certain rules of engagement and restrictions:
 
